@@ -1,0 +1,8 @@
+{
+  "appId": "com.furqan.quran",
+  "appName": "الفرقان",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}

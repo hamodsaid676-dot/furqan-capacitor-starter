@@ -1,0 +1,10 @@
+{
+  "name": "تطبيق الفرقان للقرآن الكريم",
+  "short_name": "الفرقان",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#fbf9f3",
+  "theme_color": "#0f382a"
+}
